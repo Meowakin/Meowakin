@@ -1,0 +1,3 @@
+Just wondering if this might be an interesting place to use as a 'blog' - the very principles of Git allows me to maintain my own local copy rather than being dependent on the GitHub service, but GitHub allows me to 'post' publicly.  Certainly easier than hosting my own blog, though maybe that's a project I explore in the future if I ever have extra compute in my house to host a little website.
+
+At the very least, this can help me build up some Git muscles!
