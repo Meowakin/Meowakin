@@ -42,4 +42,4 @@ And done with the Innersource module - really just a reframing of the principles
 
 Doing some repository management before moving onto the next module - archiving obsolute repositories that I've moved on from (trying to stay organized).
 
-And now onto the next module!  (that timestamp thing might be nice, 3 hour granularity is probably fine, though)
+And now onto the next module - Maintain a secure repository by using GitHub best practices!  (that timestamp thing might be nice, 3 hour granularity is probably fine, though)  Looking forward to this, I hate doing things without understanding what the best practices are, and knowing when they can be broken safely.
