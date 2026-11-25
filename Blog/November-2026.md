@@ -28,3 +28,5 @@ This echoes my belief that if I am building something, I do not want to be stuck
 
 ### 12pm-3pm
 Rethinking my blog structuring, putting those thoughts in an issue on my 'profile' repo.  AKA getting distracted from the training modules, but figuring out how to get my thoughts out of my head efficiently is important to me!  Also figuring out how to do those things in a way that helps build other skills effectively.
+
+Lunch!
