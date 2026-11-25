@@ -1,3 +1,4 @@
+# November, 2026
 ## November 24th, 2026
 Practicing git via https://learngitbranching.js.org/ today!
 
@@ -8,6 +9,7 @@ Dabbled with my homelab (using a new mini-PC) and got the framework setup for us
 https://github.com/users/Meowakin/projects/4/views/1 - and to get some more practice with GitHub, I set this up as a Project (private for now) and setup some issues for next steps.  Throughout this I've been using Claude chat to work through and understand each of the steps. I have a lot of trouble trusting a fully vibe-coded environment, and I think the most important thing for me in building out a homelab is that I personally understand the mechanisms down to at least the architecture level.  There are still a number of decisions that I just have to trust the abstraction, though (i.e. Ansible, Docker - I don't know how *those* work on a fundamental level).
 
 ## November 25th, 2026
+### 9am-12pm
 Starting blog post
 
 Starting part 2 of 2 for Microsoft's [GitHub Foundations](https://learn.microsoft.com/en-us/training/paths/github-foundations-2/?ns-enrollment-type=Collection&ns-enrollment-id=1oz2iotxo7xqr0) training today, starting with 'Contribute to an open-source project on GitHub'
@@ -23,3 +25,5 @@ Code reusability blurb strikes home:
 > If your project takes off, people's apps might depend on your bit of code. Can you involve more people to take some of the potential load off? Do you have time to add documentation, triage issues, and review suggestions from people you've likely never met before? Consider your "bandwidth," and instead set expectations in your project's README file. Or, you can release your code in a public gist or a blog post. Code doesn't need to be on GitHub to be open source, after all.
 
 This echoes my belief that if I am building something, I do not want to be stuck maintaining it into perpetuity.  So anything I design needs to prioritize the ability for someone else to carry the torch (if they so desire).  Provided it is something that others will use, at any rate.  This increases the threshold for what I am willing to share with others, though.
+
+### 12pm-3pm
