@@ -27,3 +27,4 @@ Code reusability blurb strikes home:
 This echoes my belief that if I am building something, I do not want to be stuck maintaining it into perpetuity.  So anything I design needs to prioritize the ability for someone else to carry the torch (if they so desire).  Provided it is something that others will use, at any rate.  This increases the threshold for what I am willing to share with others, though.
 
 ### 12pm-3pm
+Rethinking my blog structuring, putting those thoughts in an issue on my 'profile' repo.  AKA getting distracted from the training modules, but figuring out how to get my thoughts out of my head efficiently is important to me!  Also figuring out how to do those things in a way that helps build other skills effectively.
