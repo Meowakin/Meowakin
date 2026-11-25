@@ -30,3 +30,12 @@ This echoes my belief that if I am building something, I do not want to be stuck
 Rethinking my blog structuring, putting those thoughts in an issue on my 'profile' repo.  AKA getting distracted from the training modules, but figuring out how to get my thoughts out of my head efficiently is important to me!  Also figuring out how to do those things in a way that helps build other skills effectively.
 
 Lunch!
+
+Moving onto the next module: Manage an InnerSource program by using GitHub (another thought re: format - maybe I can just have these time stamped automagically which is part of why I like IM platforms).
+
+Preach, module!
+>  If misused, metrics can harm the culture, existing processes, and diminish the collective sentiment towards the organization or leadership team.
+
+Love some metrics, but I'm at a loss for how to evaluate *myself* and my *own* progress.  Step one is to create a record of the things I am doing, so here we are!  It does bring to mind how people have metrics showing the history of their job hunt, and I am quite curious how most of them go about doing that.  I personally feel that it is not terribly healthy to need those sorts of personal metrics, but I presume they are using something standardized that generates those for them.
+
+And done with the Innersource module - really just a reframing of the principles already learned.  Metrics is an interesting thing to bring up in that context when they haven't been mentioned before - I presume this is because Innersource implies working in an organization that needs to prove their value, a pressure that isn't as relevant to open source (but I would argue is still present).
