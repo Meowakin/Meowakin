@@ -43,3 +43,15 @@ And done with the Innersource module - really just a reframing of the principles
 Doing some repository management before moving onto the next module - archiving obsolute repositories that I've moved on from (trying to stay organized).
 
 And now onto the next module - Maintain a secure repository by using GitHub best practices!  (that timestamp thing might be nice, 3 hour granularity is probably fine, though)  Looking forward to this, I hate doing things without understanding what the best practices are, and knowing when they can be broken safely.
+
+Things to consider:
+> There's a general knowledge problem: Many developers and other staff members assume they understand security, but they don't. Cybersecurity is a constantly evolving discipline. A program of ongoing education and training is essential.
+Amen to that - I know I don't know enough and it's slightly terrifying.
+> Code must be created correctly and securely: We need to be sure that the code is created correctly and securely implements the required features. We also need to make sure that the features were designed with security in mind.
+This definitely slips through the cracks a frightening amount of time - this kind of thing is its own full-time job!
+> Applications must comply with rules and regulations: We need to make sure that the code complies with required rules and regulations. We have to test for compliance while building the code and then retest periodically, even after deployment.
+Also its own full-time job, I don't think it's practical for any one person to manage all of this well, though I am sure there are some grizzled veterans out there that can.
+
+This has a lot of parallels with Observability and the challenges there.  Operations (shift right) has had monitoring and been trying to understand what the applications they support are doing, and the real answer is to have Development (shift left) instrument their code rather than having Operations cobble together some weird endoscope to investigate from the outside.
+
+### 3pm-6pm
