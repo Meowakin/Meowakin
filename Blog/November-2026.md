@@ -55,3 +55,12 @@ Also its own full-time job, I don't think it's practical for any one person to m
 This has a lot of parallels with Observability and the challenges there.  Operations (shift right) has had monitoring and been trying to understand what the applications they support are doing, and the real answer is to have Development (shift left) instrument their code rather than having Operations cobble together some weird endoscope to investigate from the outside.
 
 ### 3pm-6pm
+Focus waning, letting distractions get through....
+Squirrel: https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui - interesting to keep in mind!  Essentially semantic conventions, which I find fascinating.
+
+https://github.com/github/gitignore - worth looking at these templates for .gitignore recommendations in the future (like I've been dabbling with Python) - this will be important for me to wrap my head around so I can trust I am doing things securely.
+
+Definitely important to note - and something I've tried to explain to people messaging secrets in *any* semi-public space:
+> You should assume that any data committed to GitHub at any point has been compromised. Simply overwriting a commit isn't enough to ensure the data won't be accessible in the future. For the complete guide to removing sensitive data from GitHub, see Removing sensitive data from a repository.
+
+I'm going to resist the urge to add a CODEOWNERS file at this stage, since it's just me and I can't think of a way to elaborate on that needlessly like I can the other base files.  Possibly if I get to the point where I am working with coding agents.
