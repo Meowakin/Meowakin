@@ -70,4 +70,17 @@ Going through the exercise now (https://github.com/Meowakin/skills-secure-reposi
 Finished after myriad distractions.  Touched base with some friends looking to work on a game and suggested GitHub Projects rather than their initial plan of using Trello.
 
 ## November 26th, 2026
-10:30am - Thanksgiving Day, won't be posting much here. Testing access to Github from my phone (and I realized I haven't merged in a bit)
+### 10:30am 
+Thanksgiving Day, won't be posting much here. Testing access to Github from my phone (and I realized I haven't merged in a bit)
+
+## November 27th, 2026
+### 2:30pm
+Home from Thanksgiving, cleaning up the current status here and bumping into Git peculiarities, arising from my overly-complicated use for such a simple purpose (I could and even should just be pushing to main for a blog) - organically learning how to override an old version of a file!
+
+Also running Claude over some of my work so far to get an idea of what I can add to my resume and applying to a few jobs.
+Jobs applied to (via Greenhouse.io):
+- Cloud Systems Engineer, Netskope
+- Escalation Engineer, Cockroach Labs
+- Senior IT Systems Engineer, Care Access
+
+
