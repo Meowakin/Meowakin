@@ -64,3 +64,10 @@ Definitely important to note - and something I've tried to explain to people mes
 > You should assume that any data committed to GitHub at any point has been compromised. Simply overwriting a commit isn't enough to ensure the data won't be accessible in the future. For the complete guide to removing sensitive data from GitHub, see Removing sensitive data from a repository.
 
 I'm going to resist the urge to add a CODEOWNERS file at this stage, since it's just me and I can't think of a way to elaborate on that needlessly like I can the other base files.  Possibly if I get to the point where I am working with coding agents.
+
+Going through the exercise now (https://github.com/Meowakin/skills-secure-repository-supply-chain/issues/1) - I like these because hands-on learning is the best learning!
+
+Finished after myriad distractions.  Touched base with some friends looking to work on a game and suggested GitHub Projects rather than their initial plan of using Trello.
+
+## November 26th, 2026
+10:30am - Thanksgiving Day, won't be posting much here. Testing access to Github from my phone (and I realized I haven't merged in a bit)
