@@ -27,3 +27,47 @@ Code reusability blurb strikes home:
 This echoes my belief that if I am building something, I do not want to be stuck maintaining it into perpetuity.  So anything I design needs to prioritize the ability for someone else to carry the torch (if they so desire).  Provided it is something that others will use, at any rate.  This increases the threshold for what I am willing to share with others, though.
 
 ### 12pm-3pm
+Rethinking my blog structuring, putting those thoughts in an issue on my 'profile' repo.  AKA getting distracted from the training modules, but figuring out how to get my thoughts out of my head efficiently is important to me!  Also figuring out how to do those things in a way that helps build other skills effectively.
+
+Lunch!
+
+Moving onto the next module: Manage an InnerSource program by using GitHub (another thought re: format - maybe I can just have these time stamped automagically which is part of why I like IM platforms).
+
+Preach, module!
+>  If misused, metrics can harm the culture, existing processes, and diminish the collective sentiment towards the organization or leadership team.
+
+Love some metrics, but I'm at a loss for how to evaluate *myself* and my *own* progress.  Step one is to create a record of the things I am doing, so here we are!  It does bring to mind how people have metrics showing the history of their job hunt, and I am quite curious how most of them go about doing that.  I personally feel that it is not terribly healthy to need those sorts of personal metrics, but I presume they are using something standardized that generates those for them.
+
+And done with the Innersource module - really just a reframing of the principles already learned.  Metrics is an interesting thing to bring up in that context when they haven't been mentioned before - I presume this is because Innersource implies working in an organization that needs to prove their value, a pressure that isn't as relevant to open source (but I would argue is still present).
+
+Doing some repository management before moving onto the next module - archiving obsolute repositories that I've moved on from (trying to stay organized).
+
+And now onto the next module - Maintain a secure repository by using GitHub best practices!  (that timestamp thing might be nice, 3 hour granularity is probably fine, though)  Looking forward to this, I hate doing things without understanding what the best practices are, and knowing when they can be broken safely.
+
+Things to consider:
+> There's a general knowledge problem: Many developers and other staff members assume they understand security, but they don't. Cybersecurity is a constantly evolving discipline. A program of ongoing education and training is essential.
+Amen to that - I know I don't know enough and it's slightly terrifying.
+> Code must be created correctly and securely: We need to be sure that the code is created correctly and securely implements the required features. We also need to make sure that the features were designed with security in mind.
+This definitely slips through the cracks a frightening amount of time - this kind of thing is its own full-time job!
+> Applications must comply with rules and regulations: We need to make sure that the code complies with required rules and regulations. We have to test for compliance while building the code and then retest periodically, even after deployment.
+Also its own full-time job, I don't think it's practical for any one person to manage all of this well, though I am sure there are some grizzled veterans out there that can.
+
+This has a lot of parallels with Observability and the challenges there.  Operations (shift right) has had monitoring and been trying to understand what the applications they support are doing, and the real answer is to have Development (shift left) instrument their code rather than having Operations cobble together some weird endoscope to investigate from the outside.
+
+### 3pm-6pm
+Focus waning, letting distractions get through....
+Squirrel: https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui - interesting to keep in mind!  Essentially semantic conventions, which I find fascinating.
+
+https://github.com/github/gitignore - worth looking at these templates for .gitignore recommendations in the future (like I've been dabbling with Python) - this will be important for me to wrap my head around so I can trust I am doing things securely.
+
+Definitely important to note - and something I've tried to explain to people messaging secrets in *any* semi-public space:
+> You should assume that any data committed to GitHub at any point has been compromised. Simply overwriting a commit isn't enough to ensure the data won't be accessible in the future. For the complete guide to removing sensitive data from GitHub, see Removing sensitive data from a repository.
+
+I'm going to resist the urge to add a CODEOWNERS file at this stage, since it's just me and I can't think of a way to elaborate on that needlessly like I can the other base files.  Possibly if I get to the point where I am working with coding agents.
+
+Going through the exercise now (https://github.com/Meowakin/skills-secure-repository-supply-chain/issues/1) - I like these because hands-on learning is the best learning!
+
+Finished after myriad distractions.  Touched base with some friends looking to work on a game and suggested GitHub Projects rather than their initial plan of using Trello.
+
+## November 26th, 2026
+10:30am - Thanksgiving Day, won't be posting much here. Testing access to Github from my phone (and I realized I haven't merged in a bit)
