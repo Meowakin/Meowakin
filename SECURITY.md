@@ -1,0 +1,1 @@
+TODO: #9 Security definitely not needed for a blog

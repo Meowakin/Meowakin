@@ -1,0 +1,1 @@
+TODO: Define for myself how I wish to comport myself (at least within the context of this blog repo)
